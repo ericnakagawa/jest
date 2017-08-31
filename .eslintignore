@@ -5,5 +5,4 @@ flow-typed/**
 packages/*/build/**
 packages/*/build-es5/**
 types/**
-website/**
 !.eslintrc.js

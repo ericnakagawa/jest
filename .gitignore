@@ -21,7 +21,7 @@
 /website/i18n/*
 !/website/i18n/en.json
 
-/website/translated_docs
+/website/translated_docs/*
 
 coverage
 lerna-debug.log
